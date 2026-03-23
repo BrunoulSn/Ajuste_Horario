@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Ex01-Layout</string>
+    <string name="app_title">UILabs</string>
+    <string name="title">Title</string>
+    <string name="status">Status</string>
+    <string name="done">Done</string>
+    <string name="not_done">Not Done</string>
+    <string name="low">Low</string>
+    <string name="medium">Medium</string>
+    <string name="high">High</string>
+    <string name="time_and_date">Time and Date</string>
+    <string name="choose_date">Choose date</string>
+    <string name="choose_time">Choose Time</string>
+    <string name="cancel">Cancel</string>
+    <string name="reset">Reset</string>
+    <string name="submit">Submit</string>
+</resources>
